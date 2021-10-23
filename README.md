@@ -18,6 +18,7 @@ To use it, simply run:
 python example.py
 ```
 
+The EfficientNetB0 used in the example (and in the paper) was taken from the excellent [timm](https://github.com/rwightman/pytorch-image-models) repository.
 ## Requirements
 
 To install requirements:
