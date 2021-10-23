@@ -1,5 +1,4 @@
 # Attack on Confidence Estimation (ACE)
-<img src="https://github.com/IdoGalil/ACE/blob/main/Intuition.png" width="640" height="360">
 <p align="center">
   <img src="https://github.com/IdoGalil/ACE/blob/main/Intuition.png" width="640" height="360">
 </p>
