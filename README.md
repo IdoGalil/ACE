@@ -18,11 +18,6 @@ To use it, simply run
 python example.py
 ```
 
-
-```eval
-python example.py
-```
-
 ## Requirements
 
 To install requirements:
