@@ -8,6 +8,7 @@ The figure above conceptually illustrates how ACE works. Consider a classifier f
 
 ## Example
 example.py shows a simple demonstration of how ACE decreases an EfficientNetB0's confidence (measured by max softmax score) in a corrent prediction (tank image), and how it increases its confidence in an incorrect prediction (binoculars incorrectly labeled as a tank). 
+
 <img src="https://github.com/IdoGalil/ACE/blob/main/demonstration.PNG" width="627" height="457">
 To use it, simply run
 ```example
