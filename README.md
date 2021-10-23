@@ -13,6 +13,12 @@ example.py shows a simple demonstration of how ACE decreases an EfficientNetB0's
 
 <img src="https://github.com/IdoGalil/ACE/blob/main/demonstration.PNG" width="627" height="457">
 To use it, simply run
+
+```example
+python example.py
+```
+
+
 ```eval
 python example.py
 ```
