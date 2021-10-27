@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/IdoGalil/ACE/blob/main/Intuition.png" width="640" height="360">
 </p>
-This repository is the official implementation of "Disrupting Deep Uncertainty Estimation Without Harming Accuracy"(*provide arxiv link*).
+This repository is the official implementation of "Disrupting Deep Uncertainty Estimation Without Harming Accuracy":
+https://arxiv.org/abs/2110.13741
 
 ## Overview
 ACE is an algorithm for crafting adversarial examples that disrupt a model's uncertainy estimation performance without harming its accuracy.
