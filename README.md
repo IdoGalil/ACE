@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/IdoGalil/ACE/blob/main/Intuition.png" width="640" height="360">
 </p>
-This repository is the official implementation of "Disrupting Deep Uncertainty Estimation Without Harming Accuracy":
+This repository is the official implementation of "Disrupting Deep Uncertainty Estimation Without Harming Accuracy", published in NeurIPS 2021:
+https://proceedings.neurips.cc/paper/2021/file/b1b20d09041289e6c3fbb81850c5da54-Paper.pdf
 https://arxiv.org/abs/2110.13741
 
 ## Overview
